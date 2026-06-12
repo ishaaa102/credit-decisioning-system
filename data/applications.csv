@@ -1,0 +1,51 @@
+application_id,first_name,last_name,email,phone,annual_income,loan_amount,loan_type,dealer_id,has_coapplicant,coapplicant_name,coapplicant_income,state,zip_code,submitted_at
+1,Robert,Williams,jpalmer@example.net,001-455-672-1121x64571,68690.22,47585.0,Home Improvement Loan,D001,False,,,OH,70845,2026-03-01T16:24:03
+2,Luke,Hayes,sextonangela@example.com,+1-262-655-3933,40282.42,8643.73,Home Improvement Loan,D004,True,Tanner White,24286.34,PA,30255,2026-04-20T22:51:45
+3,Raymond,Madden,whendricks@example.net,001-551-765-2225,104615.5,3764.17,Personal Loan,D002,False,,,NM,61749,2025-12-01T04:06:34
+4,Chad,Johnson,raustin@example.org,607-441-7162x9261,20101.24,49618.37,Personal Loan,D002,False,,,AS,32537,2026-05-09T10:01:19
+5,Mackenzie,Lopez,taylorzachary@example.org,001-606-720-2637x937,20918.62,2130.06,Auto Loan,D002,False,,,NE,39234,2026-02-07T18:12:21
+6,Jeffrey,Hancock,twhite@example.com,543-927-7074,26066.54,48714.02,Personal Loan,D003,True,Cynthia Santiago,55195.09,WV,82648,2026-01-12T14:14:53
+7,Justin,Barnett,laura83@example.net,001-993-658-1713,69720.06,49178.31,Home Improvement Loan,D003,False,,,NC,46026,2025-09-04T04:34:27
+8,Brandon,Montoya,kyle70@example.net,(512)533-2147x972,108439.98,23074.46,Home Improvement Loan,D004,True,Theresa Calhoun,51613.73,AS,87283,2025-10-08T06:32:59
+9,Lawrence,Phillips,johnhernandez@example.net,001-723-586-1532,70104.15,1782.35,Auto Loan,D004,True,Kristin Nelson,22932.49,RI,23252,2025-08-22T00:42:26
+10,Jeffrey,Horn,yfrancis@example.com,832.824.4652x23054,84373.0,2685.04,Personal Loan,D004,False,,,NM,39215,2025-11-10T22:06:41
+11,Jason,Jones,aspencer@example.com,+1-928-333-3461x23559,118196.98,21832.64,Personal Loan,D001,True,Amanda Jefferson,78023.0,OH,46660,2025-07-21T08:10:26
+12,Thomas,Joseph,kayla00@example.com,208-655-4644x910,120767.27,47035.45,Personal Loan,D003,False,,,OH,75258,2025-11-27T19:02:51
+13,Brandon,Roberts,glee@example.com,(347)483-2533x356,139843.65,5336.13,Home Improvement Loan,D002,True,Zachary Mills,36146.47,DC,24624,2026-04-12T21:03:54
+14,Steven,Mathis,cartergail@example.org,+1-271-226-0937x71132,70528.05,14296.1,Personal Loan,D001,False,,,AL,44566,2025-08-22T23:54:15
+15,Michael,Harding,ericlee@example.com,903.826.0520,56521.49,27592.11,Auto Loan,D001,True,Christina Anthony,19845.79,NY,82777,2025-11-15T19:38:03
+16,Sarah,Miller,cantujennifer@example.com,001-477-953-1790x248,148295.3,38839.99,Auto Loan,D003,True,Joseph Wagner,27924.76,IA,52692,2026-02-01T13:34:01
+17,Sandra,Scott,richard67@example.net,001-854-901-0324,112474.45,39718.6,Personal Loan,D003,False,,,DE,34256,2025-09-28T16:27:16
+18,Craig,Spence,longtiffany@example.org,(210)998-4427,104640.01,45833.02,Personal Loan,D001,False,,,AR,46345,2025-11-10T19:16:32
+19,Jasmine,Smith,troyvillarreal@example.net,(837)422-7838,28262.59,16238.13,Auto Loan,D004,False,,,WY,64968,2025-08-18T06:12:05
+20,Amber,Wallace,amanda61@example.org,+1-490-999-9727x0252,102882.47,44473.42,Home Improvement Loan,D003,False,,,WA,58473,2026-04-06T19:35:47
+21,Taylor,Murphy,laurenwood@example.org,(636)477-4138x179,112721.82,38278.47,Auto Loan,D002,False,,,WY,18884,2025-10-11T02:06:04
+22,Paul,Mueller,washingtonamanda@example.org,001-597-935-6818x63373,84193.43,26613.91,Personal Loan,D004,False,,,MT,88046,2026-03-09T20:20:30
+23,Xavier,Jones,acrawford@example.net,+1-317-254-4407x6778,34025.89,2540.03,Home Improvement Loan,D004,False,,,ME,63951,2025-09-02T14:44:11
+24,Allison,Edwards,ginawoodard@example.net,937-616-5568x08733,110417.09,7827.24,Auto Loan,D003,False,,,HI,60820,2026-03-21T22:22:05
+25,David,Wade,ndean@example.com,8166339234,46397.96,47199.82,Auto Loan,D002,False,,,NV,27172,2026-02-09T21:11:59
+26,Kelli,Patel,cchapman@example.net,+1-878-802-1989x964,134460.82,31593.35,Home Improvement Loan,D002,True,Brittany Moody,44674.75,CT,78448,2025-10-19T13:14:53
+27,Jenna,Moore,dmora@example.net,001-333-608-4875,48397.26,21408.99,Personal Loan,D003,False,,,HI,94020,2026-01-29T14:36:15
+28,Samuel,Myers,kingrachel@example.org,525.506.1848x1180,136491.87,16582.17,Home Improvement Loan,D003,True,Patricia Taylor,42762.01,WA,67279,2025-11-22T02:06:36
+29,Kimberly,Olson,arroyorichard@example.net,+1-321-577-2437x890,126341.92,43175.8,Auto Loan,D001,True,Richard Garcia,46513.95,RI,53432,2026-04-18T13:21:25
+30,Steven,Patel,kevin93@example.com,5449894961,110016.68,14201.2,Auto Loan,D002,True,Mark Young,29219.67,MO,98219,2025-12-23T11:15:49
+31,Steven,Brown,bailey50@example.com,326-204-7824,92553.26,20787.97,Personal Loan,D004,True,Erica Norman,31046.94,CO,63316,2025-10-03T06:57:59
+32,Ashley,Good,travisfox@example.org,435.288.0565x98489,110519.56,35901.26,Home Improvement Loan,D003,True,Erin Ramos,54621.68,ND,70839,2025-07-28T00:19:41
+33,James,Fisher,lhenderson@example.net,6705176450,85348.27,3522.46,Home Improvement Loan,D001,True,Julian Smith,30571.52,AS,24142,2025-10-24T20:28:59
+34,Robert,Hoover,joseph89@example.com,(384)480-9933x990,38836.33,24983.19,Auto Loan,D004,False,,,PW,15333,2026-04-30T21:30:42
+35,Molly,Boone,timothy15@example.com,357-722-9886,30510.93,19113.07,Personal Loan,D004,True,Kristen Rivera,45569.54,HI,93875,2025-06-04T14:54:59
+36,Sabrina,Murphy,davidortiz@example.org,(468)314-6984,147845.01,20542.4,Home Improvement Loan,D001,False,,,NC,64078,2026-04-22T18:01:04
+37,Carol,Mcdonald,mlee@example.org,001-832-358-8496x04131,61701.41,10139.41,Auto Loan,D004,True,William Atkinson,16078.21,NH,53014,2025-07-13T00:19:27
+38,Thomas,Tate,scottsteve@example.com,306-633-4688x56166,86572.1,12098.29,Home Improvement Loan,D001,False,,,WA,32806,2026-03-20T20:42:26
+39,Whitney,Shaw,cruzsara@example.com,001-419-946-6052x30235,71684.36,26369.82,Auto Loan,D004,False,,,WI,05664,2025-08-07T18:34:42
+40,Christina,Smith,gcarlson@example.com,909.346.1859x354,115578.1,11244.51,Personal Loan,D003,False,,,VA,81410,2025-10-20T03:38:49
+41,Shawn,Brandt,gillmichelle@example.org,001-701-373-2548x519,49711.5,9572.79,Home Improvement Loan,D002,False,,,PA,53354,2026-03-07T07:09:18
+42,Jason,Armstrong,amanda66@example.org,879-300-4784,149512.98,48305.55,Auto Loan,D003,False,,,KY,62839,2025-10-30T01:47:40
+43,Cory,Patton,emilyjackson@example.net,(378)484-4335x465,64073.87,18111.27,Auto Loan,D004,False,,,RI,77056,2026-03-11T23:37:08
+44,Christopher,Armstrong,jonathanjohnson@example.com,001-735-661-4737x69358,135321.24,39213.9,Auto Loan,D001,False,,,PR,49556,2026-01-21T08:01:56
+45,Emily,Norman,zmathis@example.org,203-940-8957x542,41011.73,45029.16,Auto Loan,D004,False,,,MT,25717,2025-11-04T10:10:03
+46,Jonathan,Thornton,valenciawilliam@example.net,697.772.6172,33191.3,33511.59,Personal Loan,D002,True,Jason Davis,46564.89,KY,43197,2026-05-02T01:58:56
+47,Christy,Porter,haley43@example.net,5309618158,78295.14,49728.42,Home Improvement Loan,D002,True,Jennifer Whitney,36150.98,MI,82589,2026-02-05T02:44:36
+48,Michael,Rowe,michael40@example.com,353.836.1533x762,117043.88,32832.01,Home Improvement Loan,D004,False,,,FL,75473,2026-05-14T01:32:53
+49,Derrick,Washington,xclark@example.org,(457)819-3913x423,93880.12,5590.06,Auto Loan,D002,False,,,MI,43182,2026-03-09T15:02:27
+50,Robert,Meyer,jeffery95@example.org,384.418.3629x959,51718.65,48677.52,Personal Loan,D004,False,,,LA,81075,2026-03-02T03:54:04

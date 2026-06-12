@@ -1,0 +1,5 @@
+dealer_id,min_credit_score,max_loan_amount,max_dti_ratio,tier
+D001,620,40000,0.45,Standard
+D002,660,35000,0.4,Prime
+D003,580,25000,0.5,SubPrime
+D004,700,50000,0.38,Super Prime

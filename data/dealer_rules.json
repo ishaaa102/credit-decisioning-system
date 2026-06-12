@@ -1,0 +1,38 @@
+{
+  "D001": {
+    "dealer_name"       : "Standard Motors",
+    "tier"              : "Standard",
+    "min_credit_score"  : 620,
+    "max_loan_amount"   : 40000,
+    "max_dti_ratio"     : 0.45,
+    "min_annual_income" : 25000,
+    "allow_bankruptcies": false
+  },
+  "D002": {
+    "dealer_name"       : "Prime Auto",
+    "tier"              : "Prime",
+    "min_credit_score"  : 660,
+    "max_loan_amount"   : 35000,
+    "max_dti_ratio"     : 0.40,
+    "min_annual_income" : 35000,
+    "allow_bankruptcies": false
+  },
+  "D003": {
+    "dealer_name"       : "Value Cars",
+    "tier"              : "SubPrime",
+    "min_credit_score"  : 580,
+    "max_loan_amount"   : 25000,
+    "max_dti_ratio"     : 0.50,
+    "min_annual_income" : 20000,
+    "allow_bankruptcies": true
+  },
+  "D004": {
+    "dealer_name"       : "Luxury Group",
+    "tier"              : "Super Prime",
+    "min_credit_score"  : 700,
+    "max_loan_amount"   : 50000,
+    "max_dti_ratio"     : 0.38,
+    "min_annual_income" : 50000,
+    "allow_bankruptcies": false
+  }
+}
